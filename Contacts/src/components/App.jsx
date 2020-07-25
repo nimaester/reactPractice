@@ -1,8 +1,7 @@
 import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
-import Avatar from "./Avatar"
-
+import Avatar from "./Avatar";
 
 function App() {
   return (
